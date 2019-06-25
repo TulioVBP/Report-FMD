@@ -1,0 +1,9 @@
+\babel@toc {english}{}
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}
+\contentsline {section}{\numberline {2}Objectives}{4}{section.2}
+\contentsline {section}{\numberline {3}Methods and procedure}{4}{section.3}
+\contentsline {subsection}{\numberline {3.1}Slider-crank}{4}{subsection.3.1}
+\contentsline {subsection}{\numberline {3.2}Cam design}{5}{subsection.3.2}
+\contentsline {section}{\numberline {4}ADAMS analysis}{6}{section.4}
+\contentsline {section}{\numberline {5}Results}{6}{section.5}
+\contentsline {section}{\numberline {6}Discussion}{10}{section.6}
